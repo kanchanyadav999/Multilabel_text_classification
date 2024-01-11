@@ -1,5 +1,5 @@
 # Multilabel_text_classification
-# Title: Multilabel text classification
+
 #### Problem statement:
 ##### To Develop a multi-label text classification model that accurately predicts the probabilities of a given text belonging to multiple predefined classes. The task involves working with a dataset containing features extracted from text n-grams, including 145 features of numerical, boolean, and categorical types.
 #### Features
